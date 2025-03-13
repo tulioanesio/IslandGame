@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://phes0whoslum"
+path="res://.godot/imported/Music Korok Forest(Night).mp3-cb2a89f3c96cabbcff8c713a0fa21557.mp3str"
+
+[deps]
+
+source_file="res://Music Korok Forest(Night).mp3"
+dest_files=["res://.godot/imported/Music Korok Forest(Night).mp3-cb2a89f3c96cabbcff8c713a0fa21557.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
